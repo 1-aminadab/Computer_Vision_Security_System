@@ -1,0 +1,7 @@
+PySide2~=5.15.2.1
+opencv-python~=4.5.5.64
+numpy~=1.22.3
+psutil~=5.9.0
+twilio~=7.9.3
+py2exe~=0.11.1.0
+PyQt5~=5.15.6
